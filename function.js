@@ -1,4 +1,4 @@
-let age = 23;
+
 
 // fucntion stracture
 function fanOffkor(){
